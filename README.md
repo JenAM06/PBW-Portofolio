@@ -5,7 +5,7 @@ Portfolio website pribadi. Menampilkan informasi profil, skill, pengalaman, dan 
 ## 🔗 Live Demo
 👉 https://jenam06.github.io/PBW-Portofolio/
 
-> Jen Agresia Misti | 2409116007 | A'24 | MINPRO 1
+> Jen Agresia Misti | 2409116007 | A'24 | MINPRO 2
 
 ---
 
@@ -31,7 +31,7 @@ Portfolio website pribadi. Menampilkan informasi profil, skill, pengalaman, dan 
 ## Struktur File
 
 ```
-portfolio/
+minpro2/
 ├── index.html
 ├── style.css
 └── aset/
